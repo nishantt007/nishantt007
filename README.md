@@ -1,7 +1,7 @@
-### 👋 Hey, I'm Nishant Kumar Singh, final year undergraduate at NIT Surat, India.
+### 👋 Hey, I'm Nishant Kumar Singh, a final year undergraduate at NIT Surat, India.
 ### 🌱 I'm curious about developing Computer Vision and NLP models.
 ### 🔭 I'm currently working as a project-intern at Purdue University in a remote manner.
-### 📫 Reach me at: [nishantsingh.k10@gmail.com](nishantsingh.k10@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nishant-singh-59697421a/)
+### 📫 Reach me at: [nishantsingh.k10@gmail.com](mailto:nishantsingh.k10@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nishant-singh-59697421a/)
 
 <!--
 **nishantt007/nishantt007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
