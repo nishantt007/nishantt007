@@ -1,6 +1,5 @@
-### 👋 Hey, I'm Nishant Kumar Singh, an undergraduate from NIT Surat, India.
-### 🌱 I'm curious about developing Computer Vision and NLP models.
-### 🔭 I'm currently working as a project-intern at Purdue University in a remote manner.
+### 👋 Hey, I'm Nishant Kumar Singh, a master's student at the University of Zurich and ETH Zurich, Switzerland.
+### 🌱 I'm curious about developing Data Science and NLP models.
 ### 📫 Reach me at: [nishantsingh.k10@gmail.com](mailto:nishantsingh.k10@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nishant-singh-59697421a/)
 
 ### ⚡Fun fact: ![](https://komarev.com/ghpvc/?username=nishantt007)
