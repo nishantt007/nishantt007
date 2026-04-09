@@ -1,8 +1,8 @@
 ### 👋 Hey, I'm Nishant Kumar Singh, a master's student at the University of Zurich and ETH Zurich.
 ### 🌱 I'm curious about developing AI, Data Science tools and Deep Learning models.
-### 📫 Reach me at: [nishantsingh.k10@gmail.com](mailto:nishantsingh.k10@gmail.com) and [LinkedIn](https://www.linkedin.com/in/nishant-kumar-singh-59697421a)
+### 📫 Reach me at: [nishantkumar.singh@uzh.ch](mailto:nishantkumar.singh@uzh.ch) / [nishantsingh.k10@gmail.com](mailto:nishantsingh.k10@gmail.com) & [LinkedIn](https://www.linkedin.com/in/nishant-kumar-singh-59697421a)
 
-### ⚡Fun fact: ![](https://komarev.com/ghpvc/?username=nishantt007)
+### ⚡Fact: ![](https://komarev.com/ghpvc/?username=nishantt007)
 
 <!--
 **nishantt007/nishantt007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
