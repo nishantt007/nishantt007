@@ -1,7 +1,8 @@
 ### 👋 Hey, I'm Nishant Kumar Singh, a master's student at the University of Zurich and ETH Zurich.
 ### 🌱 I'm curious about developing AI & Deep Learning models.
 ### 🔭 I’m currently working on projects related to LLMs and Computer Vision.
-### 📫 Reach me at: [nishantkumar.singh@uzh.ch](mailto:nishantkumar.singh@uzh.ch) / [nishantsingh.k10@gmail.com](mailto:nishantsingh.k10@gmail.com) & [LinkedIn](https://www.linkedin.com/in/nishant-kumar-singh-59697421a)
+### 📫 Reach me at: [nishantkumar.singh@uzh.ch](mailto:nishantkumar.singh@uzh.ch) / [singhni@student.ethz.ch](mailto:singhni@student.ethz.ch) OR [nishantsingh.k10@gmail.com](mailto:nishantsingh.k10@gmail.com) 
+### 😄 Connect with me at: [LinkedIn](https://www.linkedin.com/in/nishant-kumar-singh-59697421a)
 
 ### ⚡Fact: ![](https://komarev.com/ghpvc/?username=nishantt007)
 
