@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Nishant Kumar Singh, a master's student at the University of Zurich and ETH Zurich.
+### 👋 Hey, I'm Nishant Kumar Singh (25M), a master's student at the University of Zurich and ETH Zurich.
 ### 🌱 I'm curious about exploring and developing AI models.
 ### 🔭 I’m currently working on projects related to LLMs and AI safety.
 ### 📫 Reach at: [nishantkumar.singh@uzh.ch](mailto:nishantkumar.singh@uzh.ch) OR [nishantsingh.k10@gmail.com](mailto:nishantsingh.k10@gmail.com)
